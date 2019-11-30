@@ -1,7 +1,7 @@
 # Little Piece of Tin
 
-I'm a little piece of tin,  
-Nobody knows where I have been.  
+I'm a little piece of tin **_(Points at self)_**,  
+Nobody knows where I have been **_(Shrugs shoulders)_**.  
 Got four wheels **_(Holds up 4 fingers)_** and a running board **_(Make a woosh with hand)_**,  
 I’m a four door **_(Holds up 4 fingers)_**, I’m a Ford!
 
