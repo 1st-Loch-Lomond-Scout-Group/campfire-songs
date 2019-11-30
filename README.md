@@ -8,10 +8,15 @@ We will **_do our best_** to attribute songs to owner, however campfire songs by
 
 ## Structure
 
-All songs are written in **Markdown** to make it as accessible as possible.
+All songs are written in **Markdown** to make it as accessible as possible.  
 Actions are **_bold italics_**
 
 ## Contributing
 
-- To add a song please create new **Markdown** document and create a pull request.
+### New Song
+
+To add a song please create new **Markdown** document and create a pull request.
+
+### Fix a Song
+
 - If you notice an issue with lyrics, or would like to add to them, then please either report an [Issue](https://github.com/1st-Loch-Lomond-Scout-Group/campfire-songs/issues) or create a pull request.
