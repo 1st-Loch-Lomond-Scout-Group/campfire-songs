@@ -10,7 +10,7 @@ On the 12th day of Christmas, Bear Grylls brought to us...
 11 Penknives Whittling **_(Pretend to whittle)_**  
 10 Cubs Tree Climbing **_(Pretend to climb)_**  
 9 Anxious Parents **_(Finger wagging)_**  
-8 Explorers Hiking **_(Deep voice, marching feet)_**
+8 Explorers Hiking **_(Deep voice, marching feet)_**  
 7 Scouts not sleeping **_(Shout!)_**  
 6 Rucksacks Bulging **_(Pretend to hold a big belly)_**  
 5 Neeeww badges **_(Throw old badges)_**  
