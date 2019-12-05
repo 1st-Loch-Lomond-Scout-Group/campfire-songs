@@ -13,10 +13,10 @@ On the 12th day of Christmas, Bear Grylls brought to us...
 8 Explorers Hiking **_(Deep voice, marching feet)_**
 7 Scouts not sleeping **_(Shout!)_**  
 6 Rucksacks Bulging **_(Pretend to hold a big belly)_**  
-5 Neeeww badges **_(Throw old badges)_**
-4 Tiny tents **_(High pitched voice, make tiny sign with fingers)_**
-3 Cub leaders **_(Hold up pictures of Cub Leaders)_**
-2 Nights away **_(Make a tent (triangle) with your hands in the air)_**
+5 Neeeww badges **_(Throw old badges)_**  
+4 Tiny tents **_(High pitched voice, make tiny sign with fingers)_**  
+3 Cub leaders **_(Hold up pictures of Cub Leaders)_**  
+2 Nights away **_(Make a tent (triangle) with your hands in the air)_**  
 And a Chief Scouts Gold for meeeee! **_(Both hands pointing at your head)_**
 
 ## Attributes
